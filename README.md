@@ -2,13 +2,15 @@
 
 Meu nome é jack almario mendes
 
--estou estudando no alura
--estou me desenvolvendo no JavaScript
--me organizo e compartilho projetos por aqui
+* Estou estudando no [alura](https://www.alura.com.br/)
+  
+* Estou me desenvolvendo no JavaScript
+
+* Me organizo e compartilho projetos por aqui
 
 ###entar em contato comigo...
 
 jack.mendes@escola.pr.gov.br
 
 
-![](https://tenor.com/pt-BR/view/one-piece-anime-manga-series-luffy-smiling-gif-17594271)
+![](https://media.tenor.com/vACj5JOE0PoAAAAM/ace-one-piece.gif)
