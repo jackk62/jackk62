@@ -8,7 +8,7 @@ Meu nome é jack almario mendes
 
 * Me organizo e compartilho projetos por aqui
 
-###entar em contato comigo...
+### entar em contato comigo...
 
 jack.mendes@escola.pr.gov.br
 
