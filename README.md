@@ -1,6 +1,6 @@
 ### boas vindas ao meu perfil, amigo 👋
 
-Meu nome é jack almario mendes
+Meu nome é Jack Almario Mendes
 
 * Estou estudando no [alura](https://www.alura.com.br/)
   
